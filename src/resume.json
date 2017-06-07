@@ -65,9 +65,15 @@
         "employer": "SitePen",
         "url": "https://www.sitepen.com",
         "position": "Software Engineer",
-        "summary": "As a software consultant, I help our customers build enterprise web apps using popular frontend technologies, troubleshoot issues of all size. I also contribute to open source(dojo, dojo 2 etc).",
+        "summary": "As a software consultant, I help our customers build enterprise web apps using popular frontend technologies, troubleshoot issues of all size.",
         "start": "2016-05",
-        "keywords": ["JavaScript","Node.js","TypeScript","Dojo 2", "Java"]
+        "keywords": ["JavaScript","Node.js","TypeScript","Dojo 2", "grunt.js", "Java"],
+        "highlights": [
+          "Created Node.js build script for frontend apps based on grunt.js.",
+          "Created RESTful APIs using Node.js.",
+          "Worked closely with Node.js and a variety of npm packages.",
+          "Contributed to open source(dojo, dojo 2 etc) on a daily basis."
+        ]
       },
 
       {
@@ -78,8 +84,8 @@
         "start": "2014-09",
         "end": "2016-05",
         "keywords": ["Java","C#","Angular.js","Node.js","Chai.js","Gradle","EDI X12"],
-        "highlights": ["Designed and implemented from scratch an E&B Configuration Tool that help reduce dev cost dramatically.",
-                      "Worked on a few frontend apps powered by Angular.js and Java/C#."]
+        "highlights": ["Designed and implemented from scratch an E&B Configuration Tool based on Node.js that help reduce dev cost dramatically.",
+                      "Worked on a few frontend apps powered by Angular.js and Node.js/Java/C#."]
       },
 
       {
@@ -235,6 +241,27 @@
       }
     ]
   },
+
+  "writing": [
+    {
+      "title": "Angular directives for conditional required",
+      "category": "blog",
+      "date": "2016",
+      "url": "https://lzhoucs.github.io/tech/angular/2016/01/31/conditional-required/",
+      "publisher": {
+        "name": "blog"
+      }
+    },
+    {
+      "title": "ES6 Notes",
+      "category": "blog",
+      "date": "2016",
+      "url": "https://lzhoucs.github.io/tech/javascript/2016/04/24/es6-notes/",
+      "publisher": {
+        "name": "blog"
+      }
+    }
+  ],
 
   "recognition": [
     {
