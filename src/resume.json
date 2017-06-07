@@ -11,8 +11,7 @@
     "label": "Software Engineer",
     "characterClass": "Programmer",
     "brief": "Seasoned full-stack software engineer with 8 years of industry experience, specializing in Java and JavaScript based web applications, passionate about new and cool open source technologies.",
-    "image": "profile.png",
-    "quote": "Stay hungry, stay foolish."
+    "image": "profile.png"
   },
 
   "contact": {
@@ -30,11 +29,6 @@
   },
 
   "location": {
-    "address": "N/A",
-    "city": "Mount Juliet",
-    "region": "TN",
-    "code": "37122",
-    "country": "US"
   },
 
   "social": [
@@ -147,7 +141,7 @@
 
       {
         "institution": "Maharishi University of Management",
-        "title": "MSCS",
+        "title": "Master of Science (MS), Computer Science",
         "url": "http://mscs.mum.edu",
         "start": "2011-02",
         "end": "2013-11",
@@ -156,7 +150,7 @@
 
       {
         "institution": "Shaanxi University of Science and Technology",
-        "title": "BE",
+        "title": "Bachelor of Engineering (BE)",
         "start": "2004-09",
         "end": "2008-06"
       },
