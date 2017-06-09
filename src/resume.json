@@ -10,7 +10,7 @@
   "info": {
     "label": "Software Engineer",
     "characterClass": "Programmer",
-    "brief": "Seasoned full-stack software engineer with 8 years of industry experience, specializing in Java and JavaScript based web applications, passionate about new and cool open source technologies.",
+    "brief": "Seasoned full-stack software engineer with 8 years of industry experience, specializing in Java and JavaScript based web applications, passionate about new and cool open source technologies, love Emacs.",
     "image": "profile.png",
     "quote": "Stay hungry, stay foolish."
   },
@@ -67,11 +67,10 @@
         "position": "Software Engineer",
         "summary": "As a software consultant, I help our customers build enterprise web apps using popular frontend technologies, troubleshoot issues of all size.",
         "start": "2016-05",
-        "keywords": ["JavaScript","Node.js","TypeScript","Dojo 2", "grunt.js", "Java"],
+        "keywords": ["JavaScript","Node.js","TypeScript","Dojo 2", "grunt.js", "Java","AWS","BrowserStack"],
         "highlights": [
           "Created Node.js build script for frontend apps based on grunt.js.",
           "Created RESTful APIs using Node.js.",
-          "Worked closely with Node.js and a variety of npm packages.",
           "Contributed to open source(dojo, dojo 2 etc) on a daily basis."
         ]
       },
@@ -95,7 +94,7 @@
         "summary": "I worked in the Search team and finished 2 projects.",
         "start": "2013-07",
         "end": "2014-08",
-        "keywords": ["Spring MVC","Endeca","Maven","jQuery","Handlebars.js","HTML 5","CSS 3","Bootstrap 3"],
+        "keywords": ["Spring MVC","Endeca","Maven","jQuery","Handlebars.js","HTML 5","CSS 3","Bootstrap 3","Linux"],
         "highlights": ["Architected and implemented the new RESTful search service based on Spring MVC.",
                        "Designed and implemented the Nike Merchtools.",
                        "Helped set up Java Coding Standards.",
@@ -123,7 +122,7 @@
         "summary": "I worked on a BI project for client China Mobile",
         "start": "2009-07",
         "end": "2010-10",
-        "keywords": ["ExtJS","jQuery","jQuery UI","Fusionchart","Servlet", "JSP", "DB2"],
+        "keywords": ["ExtJS","jQuery","jQuery UI","Fusionchart","Servlet", "JSP", "DB2","Linux"],
         "highlights": ["Developed a reporting tool that supports multi-dimensional query and analysis.",
                        "Implemented frontend functionality and backend Java services."
                       ]
@@ -135,7 +134,7 @@
         "summary": "I built a few small Java based web apps.",
         "start": "2008-10",
         "end": "2009-07",
-        "keywords": ["Spring","Struts","Hibernate","JavaScript","HTML","MySQL","Unix"]
+        "keywords": ["Spring","Struts","Hibernate","JavaScript","HTML","MySQL","Unix/Linux"]
       }
     ]
 
