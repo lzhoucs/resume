@@ -7,7 +7,7 @@ build_dir="../out"
 if [ -d "$build_dir" ]; then
     rm -r $build_dir
 fi
-hackmyresume build resume.json to ../out/resume.all -t awesome
+hackmyresume build resume.json to ../out/resume.all -t ../../../os/fresh-themes/themes/awesome/
 cd ../out/latex/examples
 xelatex resume.tex
 mv resume.pdf ../../../resume.pdf
